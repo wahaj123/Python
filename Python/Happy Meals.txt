@@ -1,0 +1,107 @@
+Title : Cappuccino with Milk Chocolate Cookie
+Price : Rs 288
+
+Title : Babyccino
+Price : Rs 97
+
+Title : Cappuccino with Double Chocolate Cookie
+Price : Rs 288
+
+Title : Latte with Milk Chocolate Cookie
+Price : Rs 288
+
+Title : Latte with Double Chocolate Cookie
+Price : Rs 288
+
+Title : Espresso
+Price : Rs 142
+
+Title : Macchiato
+Price : Rs 128
+
+Title : Cappuccino
+Price : Rs 274
+
+Title : Latte
+Price : Rs 274
+
+Title : Mochaccino
+Price : Rs 327
+
+Title : Hot Chocolate
+Price : Rs 327
+
+Title : Americano
+Price : Rs 239
+
+Title : Vanilla Frappe
+Price : Rs 460
+
+Title : Chocolate Frappe
+Price : Rs 460
+
+Title : Chcolate Oreo Frappe
+Price : Rs 460
+
+Title : Mocha Frappe
+Price : Rs 504
+
+Title : Iced Latte
+Price : Rs 327
+
+Title : Caramel Iced Latte
+Price : Rs 327
+
+Title : Hazelnut Iced Latte
+Price : Rs 327
+
+Title : Ice Tea Rasberry
+Price : Rs 301
+
+Title : Ice Tea Peach
+Price : Rs 301
+
+Title : Ice Tea Lemon
+Price : Rs 301
+
+Title : Ice Tea Mango
+Price : Rs 301
+
+Title : Blueberry Muffin
+Price : Rs 261
+
+Title : Double Chocolate Muffin
+Price : Rs 261
+
+Title : Milk Chocolate Muffin
+Price : Rs 168
+
+Title : Double Chocolate Cookie
+Price : Rs 168
+
+Title : Plain Butter Croissant
+Price : Rs 394
+
+Title : Chocolate croissant
+Price : Rs 394
+
+Title : Danish Cinamon
+Price : Rs 394
+
+Title : Chocolate Mousse Cake
+Price : Rs 460
+
+Title : Chocolate Overload Torte cake
+Price : Rs 593
+
+Title : Tiramisu Cake
+Price : Rs 376
+
+Title : Blue Berry Cheese Cake
+Price : Rs 593
+
+Title : Cake Brownie with Walnut
+Price : Rs 261
+
+Title : NY Style \xc3\x89clair, Chocolate iced, Bavarian Cream Filled
+Price : Rs 261
