@@ -1,20 +1,11 @@
-Title : Date Pie
-Price : Rs 195
+1.Title : Spicy Chicken Burger
+  Price : Rs 301
 
-Title : McFlurry Oreo
-Price : Rs 279
+2.Title : 4pcs McNuggets
+  Price : Rs 301
 
-Title : Cornetto McFlurry Strawberry
-Price : Rs 345
+3.Title : Fries & Drink
+  Price : Rs 301
 
-Title : Cornetto McFlurry Chocolate
-Price : Rs 345
-
-Title : Hot Fudge Sundae
-Price : Rs 239
-
-Title : Strawberry Sundae
-Price : Rs 239
-
-Title : Apple Pie
-Price : Rs 195
+4.Title : Apple Pie with Tea
+  Price : Rs 150

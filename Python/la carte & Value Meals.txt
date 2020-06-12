@@ -1,0 +1,71 @@
+1.Title : Chicken Burger with Cheese
+  Price : Rs 257
+
+2.Title : Value McArabia Chicken
+  Price : Rs 265
+
+3.Title : Mini McRoyale
+  Price : Rs 265
+
+4.Title : Chicken Chapli Burger
+  Price : Rs 230
+
+5.Title : Double Chicken Chapli burger
+  Price : Rs 292
+
+6.Title : Cheese Burger
+  Price : Rs 257
+
+7.Title : Double Cheese Burger
+  Price : Rs 434
+
+8.Title : Big Mac 
+  Price : Rs 504
+
+9.Title : Double Big Mac
+  Price : Rs 655
+
+10.Title : Quarter Pounder
+  Price : Rs 504
+
+11.Title : Quarter Pounder Double
+  Price : Rs 699
+
+12.Title : McRoyale 
+  Price : Rs 504
+
+13.Title : Grand Chicken Spicy
+  Price : Rs 575
+
+14.Title : Chicken Mac
+  Price : Rs 478
+
+15.Title : McChicken 
+  Price : Rs 345
+
+16.Title : McChicken Double
+  Price : Rs 504
+
+17.Title : Spicy McCrispy  Deluxe
+  Price : Rs 345
+
+18.Title : McCrispy Deluxe Double
+  Price : Rs 593
+
+19.Title : McArabia
+  Price : Rs 540
+
+20.Title : Chicken McNuggets 6 pcs
+  Price : Rs 372
+
+21.Title : Chicken McNuggets 9 pcs
+  Price : Rs 504
+
+22.Title : Chicken McNuggets 20 pcs
+  Price : Rs 805
+
+23.Title : Filet-O-Fish 
+  Price : Rs 398
+
+24.Title : Filet-O-Fish Double
+  Price : Rs 522

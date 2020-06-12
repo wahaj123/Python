@@ -1,20 +1,65 @@
-Title : Date Pie
-Price : Rs 195
+1.Title : Coke
+  Price : Rs 159
 
-Title : McFlurry Oreo
-Price : Rs 279
+2.Title : Sprite
+  Price : Rs 159
 
-Title : Cornetto McFlurry Strawberry
-Price : Rs 345
+3.Title : Coke Zero
+  Price : Rs 159
 
-Title : Cornetto McFlurry Chocolate
-Price : Rs 345
+4.Title : Milo
+  Price : Rs 159
 
-Title : Hot Fudge Sundae
-Price : Rs 239
+5.Title : Orange Juice
+  Price : Rs 212
 
-Title : Strawberry Sundae
-Price : Rs 239
+6.Title : McFizz Strawberry
+  Price : Rs 159
 
-Title : Apple Pie
-Price : Rs 195
+7.Title : McFizz Guava
+  Price : Rs 159
+
+8.Title : Vanila Shake
+  Price : Rs 239
+
+9.Title : Chocolate Shake
+  Price : Rs 239
+
+10.Title : Strawberry Shake
+  Price : Rs 239
+
+11.Title : Salted Caramel Shake
+  Price : Rs 239
+
+12.Title : Cappuccino
+  Price : Rs 239
+
+13.Title : Latte
+  Price : Rs 257
+
+14.Title : Long Black Coffee
+  Price : Rs 212
+
+15.Title : Mochaccino
+  Price : Rs 301
+
+16.Title : Hot Chocolate
+  Price : Rs 310
+
+17.Title : Tea
+  Price : Rs 150
+
+18.Title : Green Tea
+  Price : Rs 133
+
+19.Title : Nestea Cardamom Tea
+  Price : Rs 177
+
+20.Title : Latte - Irish
+  Price : Rs 226
+
+21.Title : Latte - Hazelnut
+  Price : Rs 226
+
+22.Title : Latte - Caramel
+  Price : Rs 226
