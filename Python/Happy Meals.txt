@@ -1,0 +1,11 @@
+1.Title : Happy Meal Beef Burger 
+  Price : Rs 274
+
+2.Title : Happy Meal Cheese Burger
+  Price : Rs 367
+
+3.Title : Happy Meal Chicken Burger 
+  Price : Rs 367
+
+4.Title : Happy Meal 4pcs Chicken McNuggets
+  Price : Rs 367

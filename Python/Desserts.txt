@@ -1,0 +1,20 @@
+1.Title : Date Pie
+  Price : Rs 195
+
+2.Title : McFlurry Oreo
+  Price : Rs 279
+
+3.Title : Cornetto McFlurry Strawberry
+  Price : Rs 345
+
+4.Title : Cornetto McFlurry Chocolate
+  Price : Rs 345
+
+5.Title : Hot Fudge Sundae
+  Price : Rs 239
+
+6.Title : Strawberry Sundae
+  Price : Rs 239
+
+7.Title : Apple Pie
+  Price : Rs 195

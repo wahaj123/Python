@@ -1,0 +1,14 @@
+1.Title : Large Fries
+  Price : Rs 248
+
+2.Title : Curly Fries
+  Price : Rs 239
+
+3.Title : Chicken McNuggets 6 pcs
+  Price : Rs 372
+
+4.Title : Chicken McNuggets 9 pcs
+  Price : Rs 504
+
+5.Title : Chicken McNuggets 20 pcs
+  Price : Rs 805

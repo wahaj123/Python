@@ -1,0 +1,65 @@
+1.Title : Coke
+  Price : Rs 159
+
+2.Title : Sprite
+  Price : Rs 159
+
+3.Title : Coke Zero
+  Price : Rs 159
+
+4.Title : Milo
+  Price : Rs 159
+
+5.Title : Orange Juice
+  Price : Rs 212
+
+6.Title : McFizz Strawberry
+  Price : Rs 159
+
+7.Title : McFizz Guava
+  Price : Rs 159
+
+8.Title : Vanila Shake
+  Price : Rs 239
+
+9.Title : Chocolate Shake
+  Price : Rs 239
+
+10.Title : Strawberry Shake
+  Price : Rs 239
+
+11.Title : Salted Caramel Shake
+  Price : Rs 239
+
+12.Title : Cappuccino
+  Price : Rs 239
+
+13.Title : Latte
+  Price : Rs 257
+
+14.Title : Long Black Coffee
+  Price : Rs 212
+
+15.Title : Mochaccino
+  Price : Rs 301
+
+16.Title : Hot Chocolate
+  Price : Rs 310
+
+17.Title : Tea
+  Price : Rs 150
+
+18.Title : Green Tea
+  Price : Rs 133
+
+19.Title : Nestea Cardamom Tea
+  Price : Rs 177
+
+20.Title : Latte - Irish
+  Price : Rs 226
+
+21.Title : Latte - Hazelnut
+  Price : Rs 226
+
+22.Title : Latte - Caramel
+  Price : Rs 226

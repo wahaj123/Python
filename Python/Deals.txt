@@ -1,0 +1,14 @@
+1.Title : McArabia with Drink
+  Price : Rs 398
+
+2.Title : Grand Chicken Spicy with Drink
+  Price : Rs 487
+
+3.Title : Deal for 2
+  Price : Rs 841
+
+4.Title : Deal for 4
+  Price : Rs 752
+
+5.Title : Big Mac + Regular Drink
+  Price : Rs 398

@@ -1,0 +1,29 @@
+1.Title : Cappuccino with Milk Chocolate Cookie
+  Price : Rs 288
+
+2.Title : Cappuccino with Double Chocolate Cookie
+  Price : Rs 288
+
+3.Title : Latte with Milk Chocolate Cookie
+  Price : Rs 288
+
+4.Title : Latte with Double Chocolate Cookie
+  Price : Rs 288
+
+5.Title : McFizz Guava
+  Price : Rs 159
+
+6.Title : Date Pie
+  Price : Rs 195
+
+7.Title : Spicy McCrispy Deluxe - Regular Meal
+  Price : Rs 416
+
+8.Title : McChicken - Regular Meal
+  Price : Rs 416
+
+9.Title : Curly Fries
+  Price : Rs 239
+
+10.Title : Salted Caramel Shake
+  Price : Rs 239
